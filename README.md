@@ -28,3 +28,8 @@ The goal of the puzzle is to find one of the balls, which has bombs in all four 
 If the ball is found, the game is won. If the bomb is detonated before it is found, a new puzzle will be refreshed and new enemies will appear.
 
 ![20220423_180643046](https://github.com/aaronappleu2/CoopShootPuzzleGame_4.27/blob/main/sample.jpg)
+
+
+
+Demo Video Link：https://pan.baidu.com/s/17mE3zBM8apb32D_UXemmPQ?pwd=n0t5 
+PWD：n0t5
