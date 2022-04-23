@@ -6,7 +6,7 @@ This Project is a UE4 Game Project implemented through the tutorial of  [Tom Loo
 
 The project uses the UE4 public learning resource package. 
 
-This project is for study use only.
+This project is a demo and for study use only.
 
 ## Game Properties
 
